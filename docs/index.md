@@ -1,4 +1,10 @@
-# Project Starter Template
+# Introduction
+The Catholic Church has been approached with a kind of careful reverence. As an institution that predates contemporary society, the respect is not misplaced. However, this respect can allow for an ignorance of the failings of the clerical body. Notably, the church is relatively infamous for its handling of sexual misconduct involving its priests. Though a taboo topic, the church must be held accountable for its actions.
+
+In recent years, a substantial body of data has been accumulated concerning the individual priests accused of sexual misconduct. Comprising thousands of entires, the database is separated by priests, the orders which they belong to, and the overall status of their cases, among other important identifying information.
+
+It is important to hold these institutions accountable for what they do, and to an extent, what they try to conceal from the public. By taking a holistic look at all the cases, it becomes apparent that it is a more widespread issue than one is lead to believe. Though the Catholic Church is notorious for sexual misconduct, it is not the only establishment to abuse its power. It is crucial that we as a society establish that this is an unacceptable practice that will not be tolerated, regardless of how old or important the institution is.
+
 
 Introduce your reader to your topic here. Let them know why this matters. This is also a good place to mention to your reader previous work done on this topic, either digitally *or* in traditional historiography. Give the reader a brief idea how your project, or some future form of it, will add to the discussion. You will go into more detail in the background section, so the main idea, above all, is to let the reader know 1) what this is, and 2) why they should care
 
