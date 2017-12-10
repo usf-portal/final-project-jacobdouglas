@@ -6,8 +6,3 @@ Jeffrey Ferro details extensive chronologies of Catholic Priests engaging in sex
 The goal of this is to make a database that can provide more useful information about this contentious issue. By creating a database that is not static, more information can be gleaned from the available data, and a better understanding can be had. Over the course of the semester, I was able to create a crude working database that allows for deeper inquiry using the information within the tables.
 
 Looking at the long term, supplying the database with more information such as state population data, party affiliation of the state, and general poverty levels can provide more insight into the factors that can determine the outcome of the cases detailed.
-
-
-What is the background to your involvement on this project. Had you worked on it before, did something draw you to it? Has previous digital work been done on this topic before? If so, how is this similar or different to that work?
-
-What is the goal of this project, both short term (what you did now) and long term (what you think can be done down the road)

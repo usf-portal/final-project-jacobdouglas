@@ -5,6 +5,3 @@ This database has an incredible amount of potential. For instance, if census dat
 What would be interesting, too, would be to see how the levels of successes and failures change throughout the years, and to compare that to the changes in the portion of the United States population that identifies as secular.
 
 The biggest challenge, though, would be to find that information and apply it to the existing data. If I was to expand on this project, I would try to create separate tables for the information on the priests, the locations, and individual orders.
-
-
-Fairly straightforward: where can you go from here? If your project were to move foward, what would be your next steps and why? What do you think will be the biggest obstacles going foward: redesign, data entry, or something else? What do you see the final payoff being?
